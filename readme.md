@@ -1,5 +1,5 @@
 # chaprange
-Get the page range of a chapter from a PDF book using its table of contents.
+A small command-line program that looks up a chapter's start and end page in a PDF by reading its embedded table of contents.
 
 ## Requirements
 - Python 
